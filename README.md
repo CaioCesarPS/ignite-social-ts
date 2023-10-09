@@ -6,10 +6,13 @@ It's a fake plataform that you can comment inside some post. This project was cr
 
 # How to run
 
-1- Clone the repository into your machine.
-2- You will need NodeJS/ NPM to run, you can download [here](https://nodejs.org/en).
-3- Execute `npm run dev`.
-4- Open into you Browser the address: http://localhost:5173
+1 Clone the repository into your machine.
+
+2 You will need NodeJS/ NPM to run, you can download [here](https://nodejs.org/en).
+
+3 Execute `npm run dev`.
+
+4 Open into you Browser the address: ``http://localhost:5173``.
 
 # Features
 
