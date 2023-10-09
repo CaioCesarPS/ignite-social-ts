@@ -57,7 +57,6 @@ export function Post({ post }: PostProps) {
 
   function handleNewCommentInvalid(event: InvalidEvent<HTMLTextAreaElement>) {
     event.target.setCustomValidity('Esse campo é obrigatório');
-    console.log('Comentario invalido');
   }
 
   function deleteComment(commentToDelete: string) {
